@@ -7,12 +7,6 @@ The model achieves 87.45% accuracy on the test dataset.
 CIFAR-10 is a widely used benchmark dataset in computer vision research.
 ## 📚 Reference: https://www.cs.toronto.edu/~kriz/cifar.html
 The project uses TensorFlow Keras for training and Gradio for building a simple web interface to test the model.
-
-# 📂 Repository Structure
-.
-├── 1-Training.ipynb
-├── 2-interface_test_model.ipynb
-└── cifar10.keras /
 # 📄 Files
 ## 1️⃣ 1-Training.ipynb
 ### This Jupyter Notebook includes:
